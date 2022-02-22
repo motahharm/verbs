@@ -1,0 +1,5 @@
+# Config.json for meterm https://github.com/motahharm/meterm/
+config.json
+
+# __pycache__
+__pycache__/
